@@ -8,6 +8,10 @@ $(function () {
     }
   });
 
+  $(".menu").on("click", function () {
+    $(".top-slide").slideToggle();
+  });
+
   // visual
   $(function () {
     setInterval(function () {
