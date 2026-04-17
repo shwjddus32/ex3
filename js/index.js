@@ -9,7 +9,7 @@ $(function () {
   });
 
   $(".menu").on("click", function () {
-    $(".top-slide").slideToggle();
+    $(".top-slide").stop().slideToggle();
   });
 
   // visual

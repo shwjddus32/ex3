@@ -58,6 +58,9 @@ header .right i {
   border-radius: 50%;
   padding: 0.6rem 0.5rem;
 }
+.top-slide {
+  display: none;
+}
 
 /* visual */
 
