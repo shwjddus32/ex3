@@ -26,7 +26,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1vw 5vw;
+  padding: 1vw 4vw;
   color: #444;
   z-index: 10;
   box-sizing: border-box;
@@ -69,7 +69,6 @@ header .right i {
   height: 100vh;
   position: relative;
   overflow: hidden;
-  border-radius: 50px;
 }
 #visual ul {
   width: 300%;
